@@ -1,0 +1,16 @@
+
+#CASE-SENSITIVE DOCUMENT
+
+M=10
+population_volume=50
+max_iters=100
+quality_epsilon=0.00001
+max_valueless_iters=70
+enough_function_value=4
+preserved_high_positions=2
+preserved_low_positions=7
+threshold=0.6
+crossing_volume=0.7
+variability=0.1
+crossing_type=MONO
+mutation_type=REVERSE
